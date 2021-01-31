@@ -1,6 +1,6 @@
 public class BuscaBinaria {
 
-  public int busca(int[] array, int chave) {
+  public int busca(int[] array, double chave) {
     int i = -1;
     int a = 0;
     int b = array.length;
